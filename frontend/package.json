@@ -1,5 +1,5 @@
 {
-  "proxy": "https://api.render.com/deploy/srv-cgvp7t0dh87joktgocm0?key=5vOKdYv2B5I",
+  "proxy": "https://mern-2fdm.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
